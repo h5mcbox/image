@@ -4,4 +4,5 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-control" content="no-cache">
 <meta http-equiv="Cache" content="no-cache">
+<title>Pages Media</title>
 ## 此仓库用于存放媒体
